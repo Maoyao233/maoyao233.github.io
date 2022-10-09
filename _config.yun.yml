@@ -65,3 +65,6 @@ cursor:
 
 codeblock:
   copy_btn: true
+
+wordcloud:
+  enable: true
