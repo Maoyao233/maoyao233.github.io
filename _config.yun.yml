@@ -68,3 +68,8 @@ codeblock:
 
 wordcloud:
   enable: true
+
+wordcount:
+  enable: true
+  count: true
+  time: true
