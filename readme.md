@@ -1,6 +1,6 @@
 # Maoyao's Coding Blog
 
-@Maoyao233 的个人博客，使用 [hexo](https://github.com/hexojs/hexo) 搭建。
+[@Maoyao233](https://github.com/Maoyao233) 的个人博客，使用 [hexo](https://github.com/hexojs/hexo) 搭建。
 
 ## 许可证
 
