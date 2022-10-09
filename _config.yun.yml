@@ -1,0 +1,67 @@
+mode: auto
+
+language: zh-CN
+
+avatar:
+  url: /images/avatar.jpg
+  rounded: true
+
+reward:
+  enable: false
+
+github_issues:
+  enable: true
+
+github_discussions:
+  enable: true
+
+footer:
+  since: 2022
+
+banner:
+  enable: true
+  title: 猫妖的编程小栈
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+social:
+  - name: RSS
+    link: /atom.xml
+    icon: ri:rss-line
+    color: orange
+  - name: GitHub
+    link: https://github.com/Maoyao233
+    icon: ri:github-line
+    color: '#181717'
+  - name: E-Mail
+    link: mailto:maoyaoye@foxmail.com
+    icon: ri:mail-line
+    color: '#8E71C1'
+  - name: 哔哩哔哩
+    link: https://space.bilibili.com/390112836
+    icon: ri:bilibili-line
+    color: '#FF8EB3'
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/%E8%8C%82%E5%B0%A7-%E5%8F%B6-4a6382218/
+    icon: ri:linkedin-line
+    color: black
+
+pages:
+
+trianglify:
+  enable: false
+  cellSize: 75
+  width: 800
+  height: 600
+  palette: '["YlGnBu", "GnBu", "Purples", "Blues"]'
+  opacity: 0.5
+
+cursor:
+  enable: true
+
+codeblock:
+  copy_btn: true

@@ -4,11 +4,11 @@
 
 # Site
 title: 猫妖的编程小栈
-subtitle: ''
+subtitle: 金埋无土色，玉坠无瓦声。剑折有寸利，镜破有片明。
 description: ''
-keywords: C++ 笔记 学习总结
+keywords: C++ 笔记 学习
 author: Maoyao233
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -44,16 +44,11 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
-prismjs:
   enable: false
+prismjs:
+  enable: true
   preprocess: true
-  line_number: true
+  line_number: false
   tab_replace: ''
 
 # Home page setting
@@ -97,10 +92,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yun
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
   repo: https://github.com/Maoyao233/maoyao233.github.io.git
+  branch: gh-page
